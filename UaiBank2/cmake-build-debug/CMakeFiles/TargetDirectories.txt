@@ -1,0 +1,3 @@
+C:/Users/windows/OneDrive/Área de Trabalho/BSI/ProjetoICC/UaiBank2/cmake-build-debug/CMakeFiles/UaiBank2.dir
+C:/Users/windows/OneDrive/Área de Trabalho/BSI/ProjetoICC/UaiBank2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/windows/OneDrive/Área de Trabalho/BSI/ProjetoICC/UaiBank2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
